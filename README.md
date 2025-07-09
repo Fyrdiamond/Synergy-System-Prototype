@@ -10,6 +10,7 @@ The goal of this project was to prove I could make something like this
 - Rewrite in something I hate less than Processing (no offence to anyone who uses it, just not for me.)
 - Clearly represent the current area/item being focused to the user
 - Enhance sorting functionality to have additional comparison parameeters
+- Add better save/load functionality
 
 ## Instructions
 1. Download the files in this repository ending in .pde
